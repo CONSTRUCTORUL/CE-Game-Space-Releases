@@ -7,16 +7,17 @@ game version: an update of a game can change how its values are stored.
 
 | Game | Status | Engine | Notes |
 |---|---|---|---|
-| Alien Invasion: RPG Idle Space | ✅ | — | |
+| Alien Invasion: RPG Idle Space | ✅ | Unity¹ | |
 | Bloons TD 6 | ✅ | Unity (IL2CPP) | Tested on game version 57.4. Values such as cash are Double. Pointer chains change with every match: use Pointer rescan, or a quick value scan each match. |
-| Cat Gunner | ✅ | — | |
-| Devour Idle RPG | ✅ | — | |
+| Cat Gunner | ✅ | Unity¹ | Store data checked for Idle Cat Gunner: Shooter RPG. |
+| Devour Idle RPG | ✅ | Unity¹ | |
 | Gear Craft | ✅ | — | |
 | Hero Survival IO | ✅ | — | |
 | Mindustry | ✅ | libGDX | |
-| Rogue Defense: Hybrid Tower TD | ✅ | — | |
-| Rogue Legend: Roguelike RPG | ✅ | — | |
+| Rogue Defense: Hybrid Tower TD | ✅ | Unity¹ | |
+| Rogue Legend: Roguelike RPG | ✅ | Unity¹ | |
 
+¹ Unity is listed among the game's development tools in public store SDK data; not yet confirmed in the HUD.
 "—" means the engine is not confirmed yet. The HUD shows the engine of a running game in the Classes tab.
 
 ## Not supported
