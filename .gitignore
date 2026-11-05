@@ -1,0 +1,11 @@
+# This repo only holds README/LICENSE; APKs and update.json are attached to GitHub Releases,
+# never committed. Never commit signing material.
+*.apk
+*.aab
+*.jks
+*.keystore
+.signing/
+release.properties
+local.properties
+.DS_Store
+Thumbs.db
