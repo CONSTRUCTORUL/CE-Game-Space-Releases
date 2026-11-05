@@ -38,6 +38,8 @@ offline single-player games in a private virtual space and includes a memory edi
 
 Latest version: **1.11.0**. Each release lists its changes.
 
+Which games work: see **[COMPATIBILITY.md](COMPATIBILITY.md)**.
+
 ## Download
 
 Get the newest APK from **[Releases](../../releases/latest)**.
